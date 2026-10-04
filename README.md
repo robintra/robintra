@@ -1,16 +1,113 @@
-## Hi there 👋
+<h1 align="center">Robin Trassard</h1>
 
-<!--
-**robintra/robintra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-stack developer specializing in back-end &amp; distributed systems<br/>
+  Performance &amp; energy profiling · Eco-design · GreenOps
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/robin-trassard-86937b178"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIwLjQ0IDIwLjQ1aC0zLjU1di01LjU2YzAtMS4zMi0uMDI3LTMuMDMtMS44NS0zLjAzLTEuODUgMC0yLjEzIDEuNDQtMi4xMyAyLjkzdjUuNjZIOS4zNVY5aDMuNDF2MS41NmguMDQ2Yy40NzctLjkgMS42My0xLjg1IDMuMzctMS44NSAzLjYwIDAgNC4yNiAyLjM3IDQuMjYgNS40NXY2LjI4ek01LjMzIDcuNDNjLTEuMTQgMC0yLjA2LS45MjYtMi4wNi0yLjA2IDAtMS4xMy45Mi0yLjA2IDIuMDYtMi4wNiAxLjE0IDAgMi4wNi45MjUgMi4wNiAyLjA2IDAgMS4xMy0uOTI1IDIuMDYtMi4wNiAyLjA2em0xLjc4IDEzLjAxSDMuNTVWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5MiAwIDAgLjc3NCAwIDEuNzJ2MjAuNTRDMCAyMy4yMi43OTIgMjQgMS43NyAyNGgyMC40NUMyMy4yIDI0IDI0IDIzLjIyIDI0IDIyLjI3VjEuNzJDMjQgLjc3NCAyMy4yIDAgMjIuMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" /></a>
+  <a href="mailto:robin.trassard@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTguODUgMTguNTZzLS45MTcuNTMuNjUzLjcxYzEuOTAuMjE4IDIuODcuMTg3IDQuOTYtLjIxMSAwIDAgLjU1Mi4zNCAxLjMyLjY0Ni00LjY5IDIuMDEtMTAuNjMtLjExOC02Ljk0LTEuMTRNOC4yNyAxNS45M3MtMS4wMi43NjEuNTQuOTI0YzIuMDMuMjA5IDMuNjMuMjI3IDYuNDEtLjMwOCAwIDAgLjM4NC4zOC45ODcuNjAtNS42NyAxLjY2LTEyLjAwLjEzLTcuOTQtMS4yMU0xMy4xMSAxMS40N2MxLjE1IDEuMzMtLjMwNCAyLjUzLS4zMDQgMi41M3MyLjkzLTEuNTEgMS41OC0zLjQxYy0xLjI2LTEuNzctMi4yMi0yLjY1IDMuMDAtNS42OCAwLS4wMDEtOC4yMSAyLjA1LTQuMjkgNi41N00xOS4zMyAyMC41MHMuNjc5LjU1LS43NDcuOTljLTIuNzEuODIyLTExLjI4IDEuMDYtMTMuNjYuMDMzLS44NTYtLjM3My43NS0uODkgMS4yNS0uOTk4LjUyLS4xMTQuODItLjA5My44Mi0uMDkzLS45NTMtLjY3MS02LjE1IDEuMzEtMi42NCAxLjg4IDkuNTggMS41NSAxNy40Ni0uNyAxNC45Ny0xLjgyTTkuMjkgMTMuMjFzLTQuMzYgMS4wMy0xLjU0IDEuNDFjMS4xOC4xNTkgMy41Ni4xMjMgNS43Ny0uMDYyIDEuODAtLjE1MiAzLjYxLS40NzcgMy42MS0uNDc3cy0uNjM3LjI3LTEuMDkuNTg3Yy00LjQyIDEuMTYtMTIuOTguNjIzLTEwLjUyLS41NjggMi4wOC0xLjAwIDMuNzctLjg5MiAzLjc3LS44OTJNMTcuMTEgMTcuNThjNC41MC0yLjM0IDIuNDItNC41OC45NjgtNC4yOC0uMzU1LjA3LS41MTUuMTMtLjUxNS4xM3MuMTMyLS4yMDcuMzgtLjI5N2MyLjg3LTEuMDEgNS4wOCAyLjk4LS45MjggNC41NiAwLS4wMDEuMDctLjA2Mi4wOS0uMTE4TTE0LjQwIDBzMi40OSAyLjQ5LTIuMzYgNi4zM2MtMy44OSAzLjA3LS44ODggNC44My0uMDAxIDYuODMtMi4yNy0yLjA1LTMuOTQtMy44NS0yLjgyLTUuNTMgMS42NC0yLjQ2IDYuMTktMy42NiA1LjE5LTcuNjJNOS43MyAyMy45MmM0LjMyLjI3NyAxMC45NS0uMTUzIDExLjExLTIuMTkgMCAwLS4zMDIuNzctMy41NyAxLjM5LTMuNjguNjk0LTguMjMuNjEzLTEwLjkzLjE2OCAwLS4wMDEuNTUuNDU3IDMuMzkuNjM5Ii8%2BPC9zdmc%2B)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTEyIDBBMTIgMTIgMCAwMDAgMTJhMTIgMTIgMCAwMDEyIDEyIDEyIDEyIDAgMDAxMi0xMkExMiAxMiAwIDAwMTIgMHpNOS40MiA3LjEyYTUuNTUgNS41NSAwIDAxMS45OC4zOHYxLjE4YTQuNSA0LjUgMCAwMC0yLjI1LS41NjYgMy40MyAzLjQzIDAgMDAtMi42MiAxLjA4IDQuMDkgNC4wOSAwIDAwLTEuMDEgMi45MCAzLjkgMy45IDAgMDAuOTQgMi43NSAzLjIxIDMuMjEgMCAwMDIuNDggMS4wMiA0LjY1IDQuNjUgMCAwMDIuNDYtLjYzNGwtLjAwNCAxLjA4YTUuNTQgNS41NCAwIDAxLTIuNjIuNTU1IDQuMjEgNC4yMSAwIDAxLTMuMjItMS4yOSA0Ljc5IDQuNzkgMCAwMS0xLjIxLTMuNDAgNS4wMiA1LjAyIDAgMDExLjM2LTMuNjYgNC42MyA0LjYzIDAgMDEzLjQ3LTEuMzkgNS41NSA1LjU1IDAgMDEuMTItLjAwNCA1LjU1IDUuNTUgMCAwMS4xMiAwem01Ljg2LjE1NWguODM2bC0uNTU1IDIuNjVoMS42NmwuNTY3LTIuNjVoLjgxbC0uNTU1IDIuNjUgMS43My0uMDA0LS4xNS42OUgxNy45MWwtLjQxMiAxLjk4aDEuODVsLS4xNzYuNjloLTEuODFsLS41OCAyLjYyaC0uODNsLjU2Ny0yLjYyaC0xLjY1bC0uNTU1IDIuNjJoLS44MWwuNTU1LTIuNjJoLTEuNzRsLjEzMS0uNjk4aDEuNzRsLjQwMS0xLjk3aC0xLjgybC4xMzgtLjY5N2gxLjgyem0uMTQyIDMuMzRMMTUgMTIuNmgxLjY3bC40MjMtMS45OHoiLz48L3N2Zz4%3D)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks &amp; ORMs**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET & EF Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=actix&logoColor=white)
+![SeaORM](https://img.shields.io/badge/SeaORM-0B2545?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/1BMVEWxqmRknKQfZN8nX9Yuk9MjZ9okX9z4qBvxyzFlZf/5oiL78gf1xSX3xyg7Or07Ntc4Osu4uCqHmob/AAD0pyYAf38Ym%2BkQgup/f3//dB/0riTKqUsAAH8vQrwA//9vdqJ/vz9Kn79Ci8KrY2X/YAb/fhHadj7/qlX//1X0xSgAAAAVhegkZ9kaeuMrV9MzR80Olu7zuik4O8khct3%2BxxsedN4jducqZuRVVar%2BuRwAAP/KuEw5N8c3Ock4OsopatQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD%2BvMvtAAAAQHRSTlP%2B/hti/6DhGP8C/QlcrRETlQP%2BAaQCE5ICCnT%2BAhsB/wQY/4BKo%2BkDA/4A/v7%2B/fz//vz%2B/v7//gP%2BAf8zRcyxEh%2B3aQAAAb5JREFUeNpVk9d6ozAQhUc027jGTs%2BWZDdlGQFGphm3vP9b7Uig4nMhPnR%2BjkYSA6h0gzibJ0bzmZqSAjWOcOrYCqGpjQH%2B4SwZX/kiSZ5xOh2AEc5du6oqIkRyi6ONAl5xNrZmcgSAo%2Bg6STxJ4MvxkyMLuFTAQHTimcLh8fHNprMs41rsJY5Hmxu4xweoTAD8sQSH%2BBangPecVbbAZJ0pKWId0xL4wPnVHiCzgg8EL%2BJuxDURfD6BJ9PAIUTFsrL3y%2Bz3O/iciGBsCSFEmZV1rZDmL4QS4EFSWb9jUalU1803hH3JwbHSvuggSqUIaUIIm2FPbNzfAQFxqiUTGr3rgo6XXCFe1i7gN7U536IIGAuCojBAG/bAEGFkAR%2B81EQYn%2BeknvAAv9vUjZCPOh/URneAfkugc82k3AA%2BwsHrN52Wtb7G0gC5d4AFRQzr9QzPjB35uADcY9jqkkqJ5FspBSz39D/8%2BLXcmqLLOt1q0QLoyb96ggtL5Fsrj9JVX%2BzxdFFf0LBz/YnurD0uVrtexg5/Kn/oTQ/xfNntLET1y3wD4IHo02pgLqsz4t3B7W65jJxYns7n01K%2BTvT8f9uzn5F26xuSAAAAAElFTkSuQmCC)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Data &amp; messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps &amp; observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTYuNzYgMTAuMDNjMCAuMjk2LjAzLjUzNS4wOC43MS4wNi4xNzYuMTQuMzY4LjI1LjU3Ni4wNC4wNi4wNTYuMTIuMDU2LjE4IDAgLjA4LS4wNDguMTYtLjE1Mi4yNGwtLjUwMy4zM2EuMzgzLjM4IDAgMCAxLS4yMDguMDdjLS4wOCAwLS4xNi0uMDQtLjIzOS0uMTEyYTIuNDcgMi40NyAwIDAgMS0uMjg3LS4zNzUgNi4xOCA2LjE4IDAgMCAxLS4yNDgtLjQ3MWMtLjYyMi43My0xLjQwIDEuMTAtMi4zNCAxLjEwLS42NyAwLTEuMjAtLjE5MS0xLjU5LS41NzQtLjM5MS0uMzg0LS41OS0uODk0LS41OS0xLjUzIDAtLjY3OC4yMy0xLjIzLjcyLTEuNjQuNDg3LS40MTUgMS4xMy0uNjIzIDEuOTUtLjYyMy4yNyAwIC41NTEuMDIuODQ2LjA2LjI5Ni4wNC42LjEwLjkxOC4xN3YtLjU4M2MwLS42MDctLjEyNy0xLjAzLS4zNzUtMS4yNy0uMjU1LS4yNDgtLjY4Ni0uMzY3LTEuMy0uMzY3LS4yOCAwLS41NjguMDMtLjg2My4xMC0uMjk1LjA3LS41ODMuMTYtLjg2Mi4yN2EyLjI4IDIuMjggMCAwIDEtLjI4LjEwLjQ4OC40OCAwIDAgMS0uMTI3LjAyYy0uMTEyIDAtLjE2OC0uMDgtLjE2OC0uMjQ3di0uMzkxYzAtLjEyOC4wMS0uMjI0LjA1LS4yOGEuNTk3LjU5IDAgMCAxIC4yMjQtLjE2N2MuMjc5LS4xNDQuNjEtLjI2NCAxLjAwLS4zNmE0Ljg0IDQuODQgMCAwIDEgMS4yNC0uMTUxYy45NSAwIDEuNjQuMjE2IDIuMDkuNjQ3LjQzLjQzLjY2IDEuMDguNjYyIDEuOTZ2Mi41OHptLTMuMjQgMS4yMWMuMjYzIDAgLjUzNC0uMDQ4LjgyLS4xNDQuMjgtLjA5Ni41NC0uMjcxLjc1LS41MS4xMi0uMTUyLjIyLS4zMi4yNy0uNTEyLjA0LS4xOTEuMDgtLjQyMy4wOC0uNjk0di0uMzM1YTYuNjYgNi42NiAwIDAgMC0uNzM1LS4xMzYgNi4wMiA2LjAyIDAgMCAwLS43NS0uMDQ4Yy0uNTM1IDAtLjkyNi4xMC0xLjE5LjMyLS4yNjMuMjEtLjM5LjUxLS4zOS45MSAwIC4zNzUuMDkuNjU1LjI5Ljg0Ni4xOS4yLjQ3LjI5LjgzOC4yOXptNi40MS44NmMtLjE0NCAwLS4yNC0uMDI0LS4zMDQtLjA4LS4wNjQtLjA0OC0uMTItLjE2LS4xNjgtLjMxMUw3LjU4IDUuNTVhMS4zOSAxLjM5IDAgMCAxLS4wNzItLjMyYzAtLjEyOC4wNi0uMi4xOS0uMmguNzgzYy4xNTEgMCAuMjU1LjAyLjMxLjA4LjA2LjA0OC4xMS4xNi4xNi4zMWwxLjM0IDUuMjggMS4yNC01LjI4Yy4wNC0uMTYuMDgtLjI2NC4xNS0uMzEyYS41NDkuNTQgMCAwIDEgLjMyLS4wOGguNjM4Yy4xNTIgMCAuMjU2LjAyLjMyLjA4LjA2LjA0OC4xMi4xNi4xNS4zMTJsMS4yNiA1LjM0IDEuMzgtNS4zNGMuMDQ4LS4xNi4xMC0uMjY0LjE2LS4zMTJhLjUyLjUyIDAgMCAxIC4zMTEtLjA4aC43NDNjLjEyNyAwIC4yLjA2LjIuMiAwIC4wNC0uMDA5LjA4LS4wMTcuMTJhMS4xMyAxLjEzIDAgMCAxLS4wNTYuMmwtMS45MiA2LjE3Yy0uMDQ4LjE2LS4xMDQuMjYtLjE2OC4zMWEuNTEuNTEgMCAwIDEtLjMwMy4wOGgtLjY4N2MtLjE1MSAwLS4yNTUtLjAyNC0uMzItLjA4LS4wNjMtLjA1Ni0uMTE5LS4xNi0uMTUtLjMybC0xLjIzLTUuMTQtMS4yMyA1LjE0Yy0uMDQuMTYtLjA4Ny4yNi0uMTUuMzItLjA2NS4wNS0uMTc3LjA4LS4zMi4wOHptMTAuMjUuMjE1Yy0uNDE1IDAtLjgzLS4wNDgtMS4yMi0uMTQzLS4zOTktLjA5Ni0uNzEtLjItLjkxOC0uMzItLjEyOC0uMDcxLS4yMTUtLjE1MS0uMjQ3LS4yMjNhLjU2My41NiAwIDAgMS0uMDQ4LS4yMjR2LS40MDdjMC0uMTY3LjA2LS4yNDcuMTgtLjI0Ny4wNCAwIC4wOTYuMDAuMTQ0LjAyLjA0OC4wMS4xMi4wNC4yLjA4LjI3LjEyLjU2LjIxNS44Ny4yNzkuMzEuMDY0LjYzLjA5Ljk1LjA5LjUwMiAwIC44OTQtLjA4OCAxLjE2LS4yNjRhLjg2Ljg2IDAgMCAwIC40MTUtLjc1OC43Ny43NzcgMCAwIDAtLjIxNS0uNTU5Yy0uMTQ0LS4xNTEtLjQxNi0uMjg3LS44MDctLjQxNWwtMS4xNS0uMzZjLS41ODMtLjE4My0xLjAxLS40NTQtMS4yNy0uODEzYTEuOTAgMS45MCAwIDAgMS0uNC0xLjE1YzAtLjMzNS4wNy0uNjMuMjEtLjg4Ni4xNC0uMjU1LjMzLS40NzkuNTctLjY1NC4yNC0uMTg0LjUxLS4zMi44My0uNDE1LjMyLS4wOTYuNjUtLjEzNiAxLjAwLS4xMzYuMTcgMCAuMzU5LjAwLjUzNS4wMy4xODMuMDIuMzUuMDUuNTE4LjA4LjE2LjA0LjMxLjA4LjQ1LjEyNy4xNC4wNDguMjUuMDk2LjMzLjE0NGEuNjkuNjkgMCAwIDEgLjI0LjIuNDMuNDMgMCAwIDEgLjA3MS4yNnYuMzc1YzAgLjE2OC0uMDY0LjI1LS4xODQuMjVhLjgzLjgzIDAgMCAxLS4zMDMtLjA5NiAzLjY1IDMuNjUgMCAwIDAtMS41My0uMzExYy0uNDU1IDAtLjgxNS4wNy0xLjA2LjIyMy0uMjQ4LjE1LS4zNzUuMzgtLjM3NS43MSAwIC4yMjQuMDguNDEuMjQuNTYuMTU5LjE1LjQ1NC4zMC44NzcuNDRsMS4xMy4zNThjLjU3NC4xOC45OS40NCAxLjIzLjc2Ny4yNC4zMjcuMzYuNzAyLjM2IDEuMTEgMCAuMzQzLS4wNzIuNjUtLjIwNy45Mi0uMTQ0LjI3LS4zMzYuNTEtLjU4My43MC0uMjQ4LjItLjU0My4zNC0uODg2LjQ0LS4zNi4xMS0uNzM0LjE2LTEuMTQuMTY3ek0yMS42OSAxNi4yMGMtMi42MiAxLjk0LTYuNDQgMi45Ni05LjcyIDIuOTYtNC41OSAwLTguNzQtMS43LTExLjg3LTQuNTItLjI0Ny0uMjIzLS4wMjQtLjUyNy4yNy0uMzUxIDMuMzggMS45NiA3LjU1IDMuMTUgMTEuODcgMy4xNSAyLjkxIDAgNi4xMS0uNjA3IDkuMDYtMS44NS40MzktLjIuODEuMjg3LjM4LjYwN3pNMjIuNzkgMTQuOTZjLS4zMzYtLjQzLTIuMjItLjIwNy0zLjA3LS4xMDMtLjI1NS4wMy0uMjk1LS4xOTItLjA2My0uMzYgMS41LTEuMDUgMy45Ni0uNzUgNC4yNS0uMzk5LjI4LjM2LS4wOCAyLjgyLTEuNDggNC4wMC0uMjE1LjE4LS40MjMuMDgtLjMyNy0uMTUxLjMyLS43OSAxLjAzLTIuNTcuNjktMi45OXoiLz48L3N2Zz4%3D)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/static/v1?label=&message=GitLab%20CI%2FCD&color=FC6D26&style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIyLjQwIDEwLjlhNy4wOCA3LjA4IDAgMDAtMy4zNy0yLjM1di0uMDg1YzAtNC4wMy0zLjE1LTcuMzItNy4wNC03LjMyLTMuODkgMC03LjA1IDMuMjgtNy4wNSA3LjMydi4xQzIuMDggOS40OSAwIDEyLjI2IDAgMTUuNTRjMCA0LjAzIDMuMTUgNy4zMiA3LjA1IDcuMzJhNi45MCA2LjkwIDAgMDA0Ljk1LTIuMTAgNi44OCA2Ljg4IDAgMDA0Ljk0IDIuMTBjMy44OCAwIDcuMDUtMy4yOCA3LjA1LTcuMzJhNy41NyA3LjU3IDAgMDAtMS41OS00LjY0ek0xNi45NSAyMS4wMWMtMi45MCAwLTUuMjYtMi40NS01LjI2LTUuNDdhLjkxLjkxIDAgMDAtLjg5LS45MjQuOTAuOTA2IDAgMDAtLjg5Mi45MmMwIDEuMzYuMzY3IDIuNjUuOTk0IDMuNzRhNS4xNSA1LjE1IDAgMDEtMy44NCAxLjczYy0yLjkwIDAtNS4yNy0yLjQ1LTUuMjctNS40NyAwLTMuMDEgMi4zNi01LjQ3IDUuMjctNS40Ny42MyAwIDEuMjQuMTE3IDEuODIuMzM1LjAwIDAgLjAxMy4wMC4wMi4wMC4yMDMuMDcuNDg5LjIxLjU3LjI4N2EuODU4Ljg1IDAgMDAxLjI0LS4xLjk0Ljk0MiAwIDAwLS4wOTctMS4zYy0uMzktLjM0Mi0uOTk1LS41NzUtMS4xNC0uNjNhNi44MSA2LjgxIDAgMDAtMi40Mi0uNDQzYy0uMTEzIDAtLjIyNSAwLS4zMzguMDAuMTItMi45MSAyLjQzLTUuMjQgNS4yNy01LjI0IDIuOTAgMCA1LjI2IDIuNDUgNS4yNiA1LjQ3YTUuNTYgNS41NiAwIDAxLTIuMjEgNC40Ni45NDguOTQgMCAwMC0uMjEgMS4yOGMuMTcxLjI1LjQ1LjM5LjcyLjM5YS44Ni44NiAwIDAwLjUxLS4xNzIgNy4zOCA3LjM4IDAgMDAyLjcwLTQuMDJjMi4wMy43ODUgMy40NCAyLjgyIDMuNDQgNS4xMy0uMDA3IDMuMDEtMi4zNyA1LjQ2LTUuMjggNS40NnoiLz48L3N2Zz4%3D)
+
+---
+
+## About me
+
+I build backend systems and I care about what they cost: in latency, in infrastructure, and in carbon.
+Digital sustainability is not my job title but a long-standing, near-professional commitment, and it shapes how I build software.
+
+- Building the **Perf Sentinel** ecosystem, open-source tooling that finds I/O anti-patterns in OpenTelemetry traces and prices them in energy and carbon
+- Interested in measuring energy at the code level (eBPF, RAPL, flame graphs) rather than guessing
+- Learning Rust the hard way, coming from a Java / Spring Boot background
+- Founder and president of **GCOUDE** for 3 years, a scientific association that organized conferences with researchers from [IPCC](https://www.ipcc.ch), [IPBES](https://www.ipbes.net), [BRGM](https://www.brgm.fr) and [CNRS](https://www.cnrs.fr)
+
+---
+
+## Projects
+
+### Perf Sentinel ecosystem
+
+<p>
+  <a href="https://perf-sentinel.dev"><img alt="perf-sentinel.dev" src="https://img.shields.io/badge/perf--sentinel.dev-1F2A30?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIxNCAtMjIgMTI2IDEyNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMTIwMzRfNTczIiB4MT0iMTE0LjAzIiB5MT0iNS41NSIgeDI9IjI3Ljk4IiB5Mj0iNzMuOTEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMEJBNjcxIj48L3N0b3A%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzY1QzZDIj48L3N0b3A%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPHBhdGggZD0iTTU4Ljk5IDYuODZDODEuNjEgLTUuNjAgMTEzLjQ1IDIuMTUgMTM0LjQ1IDUuMDVDMTM1LjI3IDUuMTYgMTM1Ljc1IDYuMDMgMTM1LjQxIDYuNzlDMTI1LjY1IDI4LjU5IDExNi4yNyA1Ny4xMSA5My41OCA2OS42MkM3Mi44MyA4MS4wNSA1My40NyA3Mi41OCAzNC4yOCA2Ny4wM0MzNi4wNyA2MS42MCAzOC44NiA1Ni4zMiA0Mi40NCA1MS40N0M0Mi44OSA1MC44MyA0My4zNCA1MC4yMSA0My44MiA0OS41OEM0My4yMSA1MC4wOSA0Mi42MyA1MC41OSA0Mi4wNCA1MS4xMUMzMS45NCA1OS42NiAyMy42OSA3Mi42NyAyMi44MCA4Ny40MUMyMi42OCA4Ny41NyAyMi41MyA4Ny43MSAyMi4zNiA4Ny44NEMyMS44MCA4OC4yNyAyMS4wNiA4OC40NSAyMC4zMiA4OC4zNEMxOS41OCA4OC4yNCAxOC45MiA4Ny44NiAxOC40OSA4Ny4zMEMxOC4wNiA4Ni43MyAxNy45MSA4Ni4wMiAxOC4wNCA4NS4zMkMxOC4yMyA4NC4zMiAxOC40NCA4My4zNCAxOC42OCA4Mi4zNkMyMC4yOCA3NS43MyAyMy4yMiA2OS45MCAyNi45OSA2NC42OUMyOC4xOCA2Mi43OCAyOS4xNSA2MC4yMyAyOS45OSA1Ny41OEMzMC4zMSA1Ni41MiAzMC42MyA1NS40NSAzMC45NCA1NC4zN0MzMS42NiA1MS44MCAzMi4yOSA0OS4zMSAzMi45MSA0Ny4zN0MzNy4yNCAzMi4wNyA0Mi40OSAxNS45NSA1OC45OSA2Ljg2WiIgZmlsbD0idXJsKCNwYWludDBfbGluZWFyXzEyMDM0XzU3MykiPjwvcGF0aD48cGF0aCBkPSJNMTAwLjY1IDM2LjI2QzEwMC42NSAyNC41NSA5MS4xNiAxNS4wNiA3OS40NSAxNS4wNkM2Ny43NCAxNS4wNiA1OC4yNSAyNC41NSA1OC4yNSAzNi4yNkM1OC4yNSA0Ny45NyA2Ny43NCA1Ny40NiA3OS40NSA1Ny40Nkw3OS40NSA2MC4zNUM2Ni4xNSA2MC4zNSA1NS4zNyA0OS41NiA1NS4zNyAzNi4yNkM1NS4zNyAyMi45NiA2Ni4xNSAxMi4xOCA3OS40NSAxMi4xOEM5Mi43NSAxMi4xOCAxMDMuNTMgMjIuOTYgMTAzLjUzIDM2LjI2QzEwMy41MyA0OS41NiA5Mi43NSA2MC4zNSA3OS40NSA2MC4zNUw3OS40NSA1Ny40NkM5MS4xNiA1Ny40NiAxMDAuNjUgNDcuOTcgMTAwLjY1IDM2LjI2WiIgZmlsbD0iI0UwRjRFRCI%2BPC9wYXRoPjxwYXRoIGQ9Ik03OS40MCAyMi4xOEM4MS4xNSAyMi4xOCA4Mi44MSAyMi41MCA4NC4zNSAyMy4wOEw4MC40NSAzNS4zMEM4MC4xOSAzNi4xMiA4MS4wMSAzNi44NiA4MS44MCAzNi41M0w5Mi43NSAzMS45MEM5My4xOSAzMy4yNiA5My40MiAzNC43MCA5My40MiAzNi4yMUM5My40MiA0My45NSA4Ny4xNSA1MC4yMyA3OS40MCA1MC4yM0M3MS42NiA1MC4yMyA2NS4zOCA0My45NSA2NS4zOCAzNi4yMUM2NS4zOCAyOC40NiA3MS42NiAyMi4xOCA3OS40MCAyMi4xOFoiIGZpbGw9IiMwQjUyM0EiPjwvcGF0aD48cGF0aCBkPSJNODcuNDMgMTMuNDJDOTQuMjMgMTUuODIgOTkuNjQgMjEuMTggMTAyLjEwIDI3Ljk1TDkyLjc1IDMxLjkwQzkxLjQ0IDI3LjgzIDg4LjMzIDI0LjU4IDg0LjM1IDIzLjA4TDg3LjQzIDEzLjQyWiIgZmlsbD0iI0UwRjRFRCI%2BPC9wYXRoPjwvc3ZnPg%3D%3D" /></a>
+</p>
+
+[Perf Sentinel](https://github.com/robintra/perf-sentinel) (engine) and [Perf Sentinel Hub](https://github.com/robintra/PerfSentinelHub)
+
+<p>
+  <a href="https://github.com/robintra/perf-sentinel"><img alt="perf-sentinel" src="https://github-readme-stats.vercel.app/api/pin/?username=robintra&repo=perf-sentinel&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/robintra/PerfSentinelHub"><img alt="Perf Sentinel Hub" src="https://github-readme-stats.vercel.app/api/pin/?username=robintra&repo=PerfSentinelHub&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+### Other projects
+
+- [Custom Code Names microservices implementation](https://gitlab.com/RobinTrassard/codenames-microservices) (GitLab)
+
+---
+
+## Focus areas
+
+| | |
+|---|---|
+| **Performance engineering** | N+1 detection, flame graphs, cold-start and memory footprint (JVM AOT cache, .NET NativeAOT), load testing with k6 |
+| **GreenOps** | SCI specification, energy and carbon estimation from traces and hardware counters, regional carbon intensity |
+| **Eco-design** | Measuring before optimizing, tooling such as Firefox Profiler, AMD μProf and Creedengo |
+| **Architecture** | Hexagonal architecture, microservices, distributed systems |
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" alt="Robin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=robintra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robintra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=robintra&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Measure first, optimize second, and keep an eye on the carbon bill.</i>
+</p>
