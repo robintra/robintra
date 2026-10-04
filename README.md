@@ -59,7 +59,7 @@ Digital sustainability is not my job title but a long-standing, near-professiona
 - Building the **Perf Sentinel** ecosystem, open-source tooling that finds I/O anti-patterns in OpenTelemetry traces and prices them in energy and carbon
 - Interested in measuring energy at the code level (eBPF, RAPL, flame graphs) rather than guessing
 - Learning Rust the hard way, coming from a Java / Spring Boot background
-- Founder and president of **GCOUDE** for 3 years, a scientific association that organized conferences with researchers from [IPCC](https://www.ipcc.ch), [IPBES](https://www.ipbes.net), [BRGM](https://www.brgm.fr) and [CNRS](https://www.cnrs.fr)
+- Founder and president of [**GCOUDE**](https://linkedin.com/company/gcoude/) for 3 years, a scientific association that organized conferences with researchers from [IPCC](https://www.ipcc.ch), [IPBES](https://www.ipbes.net), [BRGM](https://www.brgm.fr/en) and [CNRS](https://www.cnrs.fr/en)
 
 ---
 
