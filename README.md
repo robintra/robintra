@@ -24,7 +24,7 @@
 **Frameworks &amp; ORMs**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![.NET & EF Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET &amp; EF Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=actix&logoColor=white)
 ![SeaORM](https://img.shields.io/badge/SeaORM-0B2545?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/1BMVEWxqmRknKQfZN8nX9Yuk9MjZ9okX9z4qBvxyzFlZf/5oiL78gf1xSX3xyg7Or07Ntc4Osu4uCqHmob/AAD0pyYAf38Ym%2BkQgup/f3//dB/0riTKqUsAAH8vQrwA//9vdqJ/vz9Kn79Ci8KrY2X/YAb/fhHadj7/qlX//1X0xSgAAAAVhegkZ9kaeuMrV9MzR80Olu7zuik4O8khct3%2BxxsedN4jducqZuRVVar%2BuRwAAP/KuEw5N8c3Ock4OsopatQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD%2BvMvtAAAAQHRSTlP%2B/hti/6DhGP8C/QlcrRETlQP%2BAaQCE5ICCnT%2BAhsB/wQY/4BKo%2BkDA/4A/v7%2B/fz//vz%2B/v7//gP%2BAf8zRcyxEh%2B3aQAAAb5JREFUeNpVk9d6ozAQhUc027jGTs%2BWZDdlGQFGphm3vP9b7Uig4nMhPnR%2BjkYSA6h0gzibJ0bzmZqSAjWOcOrYCqGpjQH%2B4SwZX/kiSZ5xOh2AEc5du6oqIkRyi6ONAl5xNrZmcgSAo%2Bg6STxJ4MvxkyMLuFTAQHTimcLh8fHNprMs41rsJY5Hmxu4xweoTAD8sQSH%2BBangPecVbbAZJ0pKWId0xL4wPnVHiCzgg8EL%2BJuxDURfD6BJ9PAIUTFsrL3y%2Bz3O/iciGBsCSFEmZV1rZDmL4QS4EFSWb9jUalU1803hH3JwbHSvuggSqUIaUIIm2FPbNzfAQFxqiUTGr3rgo6XXCFe1i7gN7U536IIGAuCojBAG/bAEGFkAR%2B81EQYn%2BeknvAAv9vUjZCPOh/URneAfkugc82k3AA%2BwsHrN52Wtb7G0gC5d4AFRQzr9QzPjB35uADcY9jqkkqJ5FspBSz39D/8%2BLXcmqLLOt1q0QLoyb96ggtL5Fsrj9JVX%2BzxdFFf0LBz/YnurD0uVrtexg5/Kn/oTQ/xfNntLET1y3wD4IHo02pgLqsz4t3B7W65jJxYns7n01K%2BTvT8f9uzn5F26xuSAAAAAElFTkSuQmCC)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -90,7 +90,7 @@ Digital sustainability is not my job title but a long-standing, near-professiona
 |---|---|
 | **Performance engineering** | N+1 detection, flame graphs, cold-start and memory footprint (JVM AOT cache, .NET NativeAOT), load testing with k6 |
 | **GreenOps** | SCI specification, energy and carbon estimation from traces and hardware counters, regional carbon intensity |
-| **Eco-design** | Measuring before optimizing, tooling such as Firefox Profiler, AMD μProf and Creedengo |
+| **Eco-design** | Measuring before optimizing, tooling such as Firefox Profiler, AMD μProf, Creedengo and Perf Sentinel |
 | **Architecture** | Hexagonal architecture, microservices, distributed systems |
 
 ---
