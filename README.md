@@ -2,7 +2,8 @@
 
 <p align="center">
   Full-stack developer specializing in back-end &amp; distributed systems<br/>
-  Performance &amp; energy profiling · Eco-design · GreenOps
+  Performance &amp; energy profiling · Eco-design · GreenOps<br/>
+  Tech Lead Green IT &amp; IT for Green at the <a href="https://institutnr.org/">Institut du Numérique Responsable</a>
 </p>
 
 <p align="center">
@@ -56,7 +57,8 @@
 I build backend systems and I care about what they cost: in latency, in infrastructure, and in carbon.
 Digital sustainability is not my job title but a long-standing, near-professional commitment, and it shapes how I build software.
 
-- Building the **Perf Sentinel** ecosystem, open-source tooling that finds I/O anti-patterns in OpenTelemetry traces and prices them in energy and carbon
+- Tech Lead Green IT &amp; IT for Green at the [**Institut du Numérique Responsable**](https://institutnr.org/) (INR), the French non-profit that grew out of the Club Green IT
+- Building the **Perf Sentinel** ecosystem, open-source tooling that finds I/O anti-patterns in OpenTelemetry traces and prices them in energy and carbon. It started as a personal project and now lives on the [INR GitHub](https://github.com/Institut-du-Numerique-Responsable), and I still lead it
 - Interested in measuring energy at the code level (eBPF, RAPL, flame graphs) rather than guessing
 - Learning Rust the hard way, coming from a Java / Spring Boot background
 - Founder and president of [**GCOUDE**](https://linkedin.com/company/gcoude/) for 3 years, a scientific association that organized conferences with researchers from [IPCC](https://www.ipcc.ch), [IPBES](https://www.ipbes.net), [BRGM](https://www.brgm.fr/en) and [CNRS](https://www.cnrs.fr/en)
@@ -71,11 +73,11 @@ Digital sustainability is not my job title but a long-standing, near-professiona
   <a href="https://perf-sentinel.dev"><img alt="perf-sentinel.dev" src="https://img.shields.io/badge/perf--sentinel.dev-1F2A30?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIxNCAtMjIgMTI2IDEyNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMTIwMzRfNTczIiB4MT0iMTE0LjAzIiB5MT0iNS41NSIgeDI9IjI3Ljk4IiB5Mj0iNzMuOTEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMEJBNjcxIj48L3N0b3A%2BPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzY1QzZDIj48L3N0b3A%2BPC9saW5lYXJHcmFkaWVudD48L2RlZnM%2BPHBhdGggZD0iTTU4Ljk5IDYuODZDODEuNjEgLTUuNjAgMTEzLjQ1IDIuMTUgMTM0LjQ1IDUuMDVDMTM1LjI3IDUuMTYgMTM1Ljc1IDYuMDMgMTM1LjQxIDYuNzlDMTI1LjY1IDI4LjU5IDExNi4yNyA1Ny4xMSA5My41OCA2OS42MkM3Mi44MyA4MS4wNSA1My40NyA3Mi41OCAzNC4yOCA2Ny4wM0MzNi4wNyA2MS42MCAzOC44NiA1Ni4zMiA0Mi40NCA1MS40N0M0Mi44OSA1MC44MyA0My4zNCA1MC4yMSA0My44MiA0OS41OEM0My4yMSA1MC4wOSA0Mi42MyA1MC41OSA0Mi4wNCA1MS4xMUMzMS45NCA1OS42NiAyMy42OSA3Mi42NyAyMi44MCA4Ny40MUMyMi42OCA4Ny41NyAyMi41MyA4Ny43MSAyMi4zNiA4Ny44NEMyMS44MCA4OC4yNyAyMS4wNiA4OC40NSAyMC4zMiA4OC4zNEMxOS41OCA4OC4yNCAxOC45MiA4Ny44NiAxOC40OSA4Ny4zMEMxOC4wNiA4Ni43MyAxNy45MSA4Ni4wMiAxOC4wNCA4NS4zMkMxOC4yMyA4NC4zMiAxOC40NCA4My4zNCAxOC42OCA4Mi4zNkMyMC4yOCA3NS43MyAyMy4yMiA2OS45MCAyNi45OSA2NC42OUMyOC4xOCA2Mi43OCAyOS4xNSA2MC4yMyAyOS45OSA1Ny41OEMzMC4zMSA1Ni41MiAzMC42MyA1NS40NSAzMC45NCA1NC4zN0MzMS42NiA1MS44MCAzMi4yOSA0OS4zMSAzMi45MSA0Ny4zN0MzNy4yNCAzMi4wNyA0Mi40OSAxNS45NSA1OC45OSA2Ljg2WiIgZmlsbD0idXJsKCNwYWludDBfbGluZWFyXzEyMDM0XzU3MykiPjwvcGF0aD48cGF0aCBkPSJNMTAwLjY1IDM2LjI2QzEwMC42NSAyNC41NSA5MS4xNiAxNS4wNiA3OS40NSAxNS4wNkM2Ny43NCAxNS4wNiA1OC4yNSAyNC41NSA1OC4yNSAzNi4yNkM1OC4yNSA0Ny45NyA2Ny43NCA1Ny40NiA3OS40NSA1Ny40Nkw3OS40NSA2MC4zNUM2Ni4xNSA2MC4zNSA1NS4zNyA0OS41NiA1NS4zNyAzNi4yNkM1NS4zNyAyMi45NiA2Ni4xNSAxMi4xOCA3OS40NSAxMi4xOEM5Mi43NSAxMi4xOCAxMDMuNTMgMjIuOTYgMTAzLjUzIDM2LjI2QzEwMy41MyA0OS41NiA5Mi43NSA2MC4zNSA3OS40NSA2MC4zNUw3OS40NSA1Ny40NkM5MS4xNiA1Ny40NiAxMDAuNjUgNDcuOTcgMTAwLjY1IDM2LjI2WiIgZmlsbD0iI0UwRjRFRCI%2BPC9wYXRoPjxwYXRoIGQ9Ik03OS40MCAyMi4xOEM4MS4xNSAyMi4xOCA4Mi44MSAyMi41MCA4NC4zNSAyMy4wOEw4MC40NSAzNS4zMEM4MC4xOSAzNi4xMiA4MS4wMSAzNi44NiA4MS44MCAzNi41M0w5Mi43NSAzMS45MEM5My4xOSAzMy4yNiA5My40MiAzNC43MCA5My40MiAzNi4yMUM5My40MiA0My45NSA4Ny4xNSA1MC4yMyA3OS40MCA1MC4yM0M3MS42NiA1MC4yMyA2NS4zOCA0My45NSA2NS4zOCAzNi4yMUM2NS4zOCAyOC40NiA3MS42NiAyMi4xOCA3OS40MCAyMi4xOFoiIGZpbGw9IiMwQjUyM0EiPjwvcGF0aD48cGF0aCBkPSJNODcuNDMgMTMuNDJDOTQuMjMgMTUuODIgOTkuNjQgMjEuMTggMTAyLjEwIDI3Ljk1TDkyLjc1IDMxLjkwQzkxLjQ0IDI3LjgzIDg4LjMzIDI0LjU4IDg0LjM1IDIzLjA4TDg3LjQzIDEzLjQyWiIgZmlsbD0iI0UwRjRFRCI%2BPC9wYXRoPjwvc3ZnPg%3D%3D" /></a>
 </p>
 
-[Perf Sentinel](https://github.com/robintra/perf-sentinel) (engine) and [Perf Sentinel Hub](https://github.com/robintra/PerfSentinelHub)
+[Perf Sentinel](https://github.com/Institut-du-Numerique-Responsable/perf-sentinel) (engine) and [Perf Sentinel Hub](https://github.com/Institut-du-Numerique-Responsable/PerfSentinelHub), stewarded by the Institut du Numérique Responsable
 
 <p>
-  <a href="https://github.com/robintra/perf-sentinel"><img alt="perf-sentinel" src="https://github-readme-stats.vercel.app/api/pin/?username=robintra&repo=perf-sentinel&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/robintra/PerfSentinelHub"><img alt="Perf Sentinel Hub" src="https://github-readme-stats.vercel.app/api/pin/?username=robintra&repo=PerfSentinelHub&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Institut-du-Numerique-Responsable/perf-sentinel"><img alt="perf-sentinel" src="https://github-readme-stats.vercel.app/api/pin/?username=Institut-du-Numerique-Responsable&repo=perf-sentinel&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Institut-du-Numerique-Responsable/PerfSentinelHub"><img alt="Perf Sentinel Hub" src="https://github-readme-stats.vercel.app/api/pin/?username=Institut-du-Numerique-Responsable&repo=PerfSentinelHub&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ### Other projects
